@@ -1,0 +1,6 @@
+#wrapper .sidebarDiv { margin-left: 30px;  }
+#wrapper .content #mainDiv .posts .mainpost .content_wrapper .post_content .text { margin: 0 0 13px 0; }
+#wrapper .content #mainDiv .links ul.nav_links li ul { list-style-type:none; font-size:12px; font-weight:bold; padding:0px 0 20px 0; width:226px; position: absolute; visibility: hidden; background: url(../images/sublinkbot.png) 0 160px no-repeat; margin-top: 43px; margin-left: -80px; }
+#wrapper .content #mainDiv .links ul.nav_links li ul li:hover ul, #wrapper .content #mainDiv .links ul.nav_links li ul li.sfHover ul { position: absolute; left: 80px; margin-top: 0px;}
+#wrapper .content #mainDiv .links ul.nav_links li ul { left: 80px; }
+#wrapper .content #mainDiv .posts .mainpost .content_wrapper .post_content .more { margin-top: -17px; }

@@ -1,0 +1,8 @@
+<wpml-config>
+	<admin-texts>
+		<key name="deviant_date_format"/>
+		<key name="deviant_seo_home_titletext"/>
+		<key name="deviant_seo_home_descriptiontext"/>
+		<key name="deviant_seo_home_keywordstext"/>
+	</admin-texts>
+</wpml-config>

@@ -1,0 +1,7 @@
+#wrapper .content #mainDiv .posts .mainpost .content_wrapper .post_content h2 a, #wrapper .content #mainDiv .posts .subposts .sub_post_wrapper h2 a, .wp-pagenavi a:hover, .wp-pagenavi a:active, .wp-pagenavi span.current, .wp-pagenavi span.extend, #wrapper .content #mainDiv .post .post_mid h1, #wrapper .content #mainDiv .comment .comment_mid h2, #respond h3, #wrapper .content #mainDiv .comment .comment_mid ul.comment_list li .comment_body h3, .comment-reply-link { background: #b66515 !important; }
+
+#wrapper .content #mainDiv .posts .mainpost .content_wrapper .post_content h2 a:hover, #wrapper .content #mainDiv .posts .subposts .sub_post_wrapper h2 a:hover {background-color: #a4590f; }
+
+#wrapper #sidebarDiv .categories h2 { background:url(images/orange_category_back.jpg) top left no-repeat; }
+
+#wrapper #sidebarDiv .widget .tablinks ul li a.rec, #wrapper #sidebarDiv .widget .tablinks ul li a.pop, #wrapper #sidebarDiv .widget .tablinks ul li a.ran, #wrapper #sidebarDiv .widget .tablinks ul li a.rec.current, #wrapper #sidebarDiv .widget .tablinks ul li a.pop.current, #wrapper #sidebarDiv .widget .tablinks ul li a.ran.current, #wrapper #sidebarDiv .widget .tablinks ul li a.rec.current:hover, #wrapper #sidebarDiv .widget .tablinks ul li a.pop.current:hover, #wrapper #sidebarDiv .widget .tablinks ul li a.ran.current:hover, #wrapper #sidebarDiv .widget .tablinks ul li a.rec:hover, #wrapper #sidebarDiv .widget .tablinks ul li a.pop:hover, #wrapper #sidebarDiv .widget .tablinks ul li a.ran:hover  { background-image: url(images/orange_tablinks.png); }

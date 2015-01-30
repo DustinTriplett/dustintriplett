@@ -1,0 +1,17 @@
+#wrapper .content #mainDiv .links ul.nav_links li ul li:hover ul, #wrapper .content #mainDiv .links ul.nav_links li ul li.sfHover ul { display: none; position: absolute; left: 226px; margin-top: 0px;}
+#wrapper .content #mainDiv .links ul.nav_links li ul { left: 172px; }
+#wrapper .content #mainDiv .posts .mainpost .content_wrapper .post_content .more { margin-top: -17px; }
+#wrapper .content #mainDiv .comment .comment_mid { overflow: hidden; }
+#wrapper .content #mainDiv .comment .comment_bot { margin:-23px 0 0px -2px;overflow: hidden; }
+#wrapper .content #mainDiv .comment .comment_top { margin-bottom: -10px; overflow: hidden; }
+#wrapper .content #mainDiv .post .post_bot, #wrapper .content #mainDiv .post, #wrapper .content #mainDiv .post .post_mid  { overflow: hidden; }
+#wrapper .content #mainDiv .post .post_top { overflow: hidden; margin-bottom: -10px; }
+#wrapper .content #mainDiv .posts .mainpost .post_details .info { overflow: hidden; height: 40px; }
+#wrapper .content #mainDiv .posts .subposts { margin:0px 0 0 20px; overflow: hidden; }
+#wrapper .content #mainDiv .posts { overflow: hidden; }
+#wrapper .content #mainDiv .posts .subposts .sub_post_wrapper { margin: 0px 0px 0px 10px; }
+#wrapper .content #mainDiv .posts .subposts .bord { margin-left: 10px; }
+#wrapper .content #mainDiv .posts .subposts .sub_post_wrapper .more { margin-right: 30px; }
+#wrapper .content #mainDiv .posts .subposts .left .more { margin-right: 0px; }
+.wp-pagenavi {margin-top: -47px; overflow: hidden; }
+#wrapper .content .mainbot { margin-top: -23px; }
